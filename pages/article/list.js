@@ -6,7 +6,12 @@ Page({
    */
   data: {
     rData:'',
+<<<<<<< HEAD
     content:''
+=======
+    content:'',
+    flag:'none'
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -30,8 +35,12 @@ Page({
          var content = res.data[0].content;
          var tmp = "../";
          var reg = RegExp(tmp, "gm")
+<<<<<<< HEAD
          console.log(content)
 
+=======
+        
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
       //   content = content.replace(reg,'https://s.aonephy.top/')
          /**
          * WxParse.wxParse(bindName , type, data, target,imagePadding)
@@ -46,9 +55,28 @@ Page({
 
         that.setData({
           rData:res.data[0],
+<<<<<<< HEAD
           content:content
         })
         wx.hideLoading();
+=======
+          content:content,
+          flag:'block'
+        })
+        wx.hideLoading();
+        wx.request({
+          url: 'https://s.aonephy.top/api/miniprogram/visitArticle.php?id=' + id,
+          header: {
+            'content-type': 'application/json' // 默认值
+          },
+          success: function (res) {
+            console.log(res)
+
+          }
+        })
+
+
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
       }
     })
   },

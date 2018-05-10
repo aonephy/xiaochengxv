@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /**index.wxss**/
 
 .title{text-align: center;font-size: 1.5em;font-weight: 800}
@@ -49,6 +50,8 @@ image{
 .userinfo-nickname {
   color: #aaa;
 =======
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 
 .my-swiper image{
   width: 100%;
@@ -91,5 +94,8 @@ swiper{
   margin: 10px;
   padding-left: 15px;
   font-size: 1em;
+<<<<<<< HEAD
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 }

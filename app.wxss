@@ -1,5 +1,6 @@
 /**app.wxss**/
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .container {
   width: 80%;
@@ -15,10 +16,19 @@
 =======
 @import 'weui.wxss';
 @import "/wxParse/wxParse.wxss";
+=======
+@import 'weui.wxss';
+@import "/wxParse/wxParse.wxss";
+@import "dist/index.wxss";
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 .line-css {
     height: 1px;
     background:  #ccc;
     margin: 20rpx 0px;
     clear: both
+<<<<<<< HEAD
 }
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+}
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10

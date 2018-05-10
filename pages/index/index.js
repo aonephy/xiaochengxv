@@ -1,16 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //index.js
 var app = getApp()
 =======
 var app = getApp();
 
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+var app = getApp();
+
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
+<<<<<<< HEAD
 <<<<<<< HEAD
     userInfo: {},
     city: '',
@@ -47,6 +53,8 @@ Page({
     })
   },
 =======
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
     userInfo: null,
     grids: [],
     toView: 'red',
@@ -58,11 +66,15 @@ Page({
     duration: 1000,
   },
 
+<<<<<<< HEAD
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+<<<<<<< HEAD
 <<<<<<< HEAD
     var that = this;
   /*
@@ -82,6 +94,8 @@ Page({
     })
    */
 =======
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
     
     var that = this
     
@@ -99,7 +113,10 @@ Page({
       }
     })
  
+<<<<<<< HEAD
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -108,10 +125,15 @@ Page({
   onReady: function () {
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     
     
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+    
+    
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -119,11 +141,14 @@ Page({
    */
   onShow: function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
     wx.setNavigationBarTitle({
       title: '皮皮侠'
     })
 =======
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -131,10 +156,14 @@ Page({
    */
   onHide: function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
     
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+    
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -142,10 +171,14 @@ Page({
    */
   onUnload: function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
     
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+    
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -153,10 +186,14 @@ Page({
    */
   onPullDownRefresh: function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
     
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+    
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
@@ -164,16 +201,21 @@ Page({
    */
   onReachBottom: function () {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
     
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+    
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   },
 
   /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
+<<<<<<< HEAD
 <<<<<<< HEAD
 
   },
@@ -234,6 +276,8 @@ Page({
 })
 
 =======
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
     
   }
 })
@@ -300,5 +344,9 @@ function loadgrids(that){
       wx.hideLoading();
     }
   })
+<<<<<<< HEAD
 }
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+}
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10

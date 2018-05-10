@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!--index.wxml-->
 <view class='title'>天气查询</view>
 <view class="container">
@@ -49,6 +50,8 @@
   <view>{{rsWind4}}</view>
   <view>{{rsTemperature4}}</view>
 =======
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 <view class="page">
     <view class="page__hd">
     </view>
@@ -80,5 +83,8 @@
         </view>
        
     </view>
+<<<<<<< HEAD
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 </view>

@@ -2,6 +2,7 @@
   "pages":[
     "pages/index/index",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "pages/ip/ip"
   ],
   "window":{
@@ -31,12 +32,25 @@
     "pages/account/list",
     "pages/account/index",
     "pages/article/index",
+=======
+    "pages/constellation/index",
+    "pages/constellation/list",
+    "pages/account/index",
+    "pages/account/list",
+    "pages/article/index",
+    "pages/article/list",
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
     "pages/exchange/index",
     "pages/queryip/index",
     "pages/profile/index",
     "pages/weather/index",
+<<<<<<< HEAD
     "pages/translate/index",
     "pages/article/list"
+=======
+    "pages/express/index",
+    "pages/translate/index"
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -62,7 +76,10 @@
         "iconPath": "image/profile.png",
         "selectedIconPath": "image/profileHL.png",
         "text": "我的"
+<<<<<<< HEAD
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
       }
     ]
   }

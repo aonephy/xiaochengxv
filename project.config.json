@@ -14,10 +14,14 @@
 	"libVersion": "1.9.98",
 	"appid": "wxe38e10c891489376",
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"projectname": "ppx",
 =======
 	"projectname": "wechatide%3A%2F%2Fminicode%2FSymsXymc6yZw",
 >>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
+=======
+	"projectname": "0.5.2",
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 	"isGameTourist": false,
 	"condition": {
 		"search": {

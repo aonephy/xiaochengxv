@@ -88,7 +88,11 @@ function getArticle(that,curPage){
       'content-type': 'application/json' // 默认值
     },
     success: function (res) {
+<<<<<<< HEAD
      // console.log(res.data)
+=======
+      console.log(res.data)
+>>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
       for(var i=0;i<res.data.length;i++){
         rData.push(res.data[i])
 
