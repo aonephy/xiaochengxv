@@ -1,6 +1,7 @@
 {
   "pages":[
     "pages/index/index",
+<<<<<<< HEAD
     "pages/ip/ip"
   ],
   "window":{
@@ -26,6 +27,42 @@
         "iconPath": "image/wechat.png",
         "selectedIconPath": "image/wechatHL.png",
         "text": "IP查询"
+=======
+    "pages/account/list",
+    "pages/account/index",
+    "pages/article/index",
+    "pages/exchange/index",
+    "pages/queryip/index",
+    "pages/profile/index",
+    "pages/weather/index",
+    "pages/translate/index",
+    "pages/article/list"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#64a4fc",
+    "navigationBarTitleText": "皮皮侠",
+    "navigationBarTextStyle":"#fff",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "color": "#aaa",
+    "selectedColor": "#0066fc",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/home.png",
+        "selectedIconPath": "image/homeHL.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "iconPath": "image/profile.png",
+        "selectedIconPath": "image/profileHL.png",
+        "text": "我的"
+>>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
       }
     ]
   }

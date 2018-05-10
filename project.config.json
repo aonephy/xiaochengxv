@@ -13,7 +13,11 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.98",
 	"appid": "wxe38e10c891489376",
+<<<<<<< HEAD
 	"projectname": "ppx",
+=======
+	"projectname": "wechatide%3A%2F%2Fminicode%2FSymsXymc6yZw",
+>>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
 	"isGameTourist": false,
 	"condition": {
 		"search": {
