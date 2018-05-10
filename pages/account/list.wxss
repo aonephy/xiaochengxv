@@ -59,10 +59,7 @@ button{
 .weui-footer image{
   width: 30px;
   height: 30px
-<<<<<<< HEAD
-=======
 }
 .list-font{
   color: #666
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 }

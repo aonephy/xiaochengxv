@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-wx.setNavigationBarTitle({
-  title: '皮皮侠'
-=======
-wx.setNavigationBarTitle({
-  title: '皮皮侠'
->>>>>>> 7a83b95f3099f761d70d5da576cd6f1ccf184895
-})
-=======
-=======
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 App({
   globalData: {
     userInfo: null,
@@ -47,7 +34,3 @@ App({
   }
 })
 
-<<<<<<< HEAD
->>>>>>> e934ee26b5b5db6d328c1f41d719da32e4f8f450
-=======
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10

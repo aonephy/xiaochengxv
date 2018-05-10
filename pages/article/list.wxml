@@ -6,13 +6,8 @@
         <view class="weui-article">
             <view class="weui-article__h1">{{rData.title}}</view>
             <view class="weui-article__section">
-<<<<<<< HEAD
-                <view class="weui-article__title">阅读 ： {{rData.viewNum}}</view>
-                <view class='line-css'></view>
-=======
                 <view class="weui-article__title">{{rData.viewNum}}</view>
                 <view class='line-css' style='display:{{flag}}'></view>
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
                 <view class="weui-article__section">
                     
                    <template is="wxParse" data="{{wxParseData:article.nodes}}"/>

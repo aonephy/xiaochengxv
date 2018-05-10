@@ -20,8 +20,6 @@
 .weui-btn{
   background:#64a4fc;
   color: #fff
-<<<<<<< HEAD
-=======
 }
 .weui-footer image{
   width: 30px;
@@ -35,5 +33,4 @@
 .weui-flex{
   text-align: center;
   padding: 5px 0px;
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 }

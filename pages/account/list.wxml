@@ -11,11 +11,7 @@
     <view class="page__bd page__bd_spacing">
         
       <block wx:for="{{list}}" >
-<<<<<<< HEAD
-        <view class="weui-flex list-{{index%2}}">
-=======
         <view class="weui-flex list-{{index%2}} list-font">
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
             <view class="weui-flex__item"><view class="placeholder">{{item.date}}</view></view>
             <view class="weui-flex__item"><view class="placeholder">{{item.type}}</view></view>
             <view class="weui-flex__item"><view class="placeholder">{{item.amount}}</view></view>

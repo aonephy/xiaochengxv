@@ -1,11 +1,7 @@
 
 <view class="page">
     <view class="page__hd">
-<<<<<<< HEAD
-      
-=======
 
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
     </view>
     <view class="page__bd">
       <view class="weui-cells weui-cells_after-title">    
@@ -54,18 +50,12 @@
           <view class="weui-btn-area">
               <button class="weui-btn" type="" bindtap="submit">提交数据</button>
 
-<<<<<<< HEAD
-              <button class="weui-btn" type="" bindtap="toList">查看账目</button>
-=======
               
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
           </view>
 
 
 
     </view>
-<<<<<<< HEAD
-=======
 
 
     <view class="weui-footer weui-footer_fixed-bottom">
@@ -82,5 +72,4 @@
             
         </view>
     </view>
->>>>>>> d130ede8b8591b228ebb9eba011f44362c184e10
 </view>
